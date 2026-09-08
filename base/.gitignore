@@ -1,0 +1,11 @@
+node_modules
+bun.lock
+
+# Local credentials and runtime state
+secrets/
+.env*
+!.env.example
+auth.json
+mcp-auth.json
+secrets.json
+opencode-notifier-state.json
