@@ -2,8 +2,8 @@
 description: Creates implementation-ready architecture and self-contained Coder handoffs for complex work; callable by main agents.
 mode: subagent
 hidden: true
-model: openai/gpt-5.6-sol
-variant: medium
+model: openai/gpt-6-astra
+variant: low
 permission:
   doom_loop: ask
   external_directory:

@@ -1,6 +1,7 @@
 ---
 description: Executes bounded commands and reports operational evidence. Use for dependencies, formatting, linting, type checks, tests, builds, local applications, and runtime observations.
 model: openai/gpt-5.6-luna
+variant: xhigh
 mode: subagent
 temperature: 0.1
 permission:

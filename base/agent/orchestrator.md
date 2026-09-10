@@ -1,8 +1,8 @@
 ---
 description: default primary engineering orchestrator coordinating architecture, implementation, review, command execution, browser validation, and delivery.
 mode: primary
-model: openai/gpt-5.6-terra
-variant: low
+model: openai/gpt-5.6-luna
+variant: max
 permission:
   doom_loop: ask
   external_directory:

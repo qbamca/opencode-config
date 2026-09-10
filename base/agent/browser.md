@@ -2,7 +2,7 @@
 description: Operates browser flows and reports observable UI evidence through Browser MCP.
 mode: subagent
 model: openai/gpt-5.6-luna
-variant: medium
+variant: max
 permission:
   "*": deny
   edit: deny

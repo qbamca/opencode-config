@@ -12,7 +12,8 @@
       "model": "github-copilot/gpt-5.6-luna"
     },
     "architect": {
-      "model": "github-copilot/gpt-5.6-sol"
+      "model": "github-copilot/gpt-6-astra",
+      "variant": "low"
     },
     "browser": {
       "model": "github-copilot/gpt-5.6-luna"

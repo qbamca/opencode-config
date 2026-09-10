@@ -2,6 +2,7 @@
 description: Fast, low-cost repository evidence collector for locating files, symbols, references, tests, configuration, documentation, and exact source excerpts; not a reviewer, architect, debugger, or decision-maker.
 mode: subagent
 model: openai/gpt-5.6-luna
+variant: max
 permission:
   external_directory:
     "*": deny

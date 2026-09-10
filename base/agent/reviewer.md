@@ -2,7 +2,7 @@
 description: Reviews code and changes for correctness, regressions, security, maintainability, and test coverage.
 mode: subagent
 model: openai/gpt-5.6-sol
-variant: low
+variant: medium
 temperature: 0.1
 permission:
   doom_loop: ask
